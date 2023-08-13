@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main()
+{
+	printf("Name: Crazy persosn 1");
+	printf("DOB: 06/11/1992");
+	printf("TEL: 07037468902");
+	return(0);
+}
